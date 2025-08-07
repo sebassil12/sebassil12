@@ -27,9 +27,9 @@ With experience in a diverse range of technologies, I'm passionate about leverag
 <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight)
 
 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="assilva-3101-sch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="assilva-3101-sch" height="30" width="40" /><p>assilva-3101-sch</p></a>
 </p>

@@ -26,7 +26,9 @@ With experience in a diverse range of technologies, I'm passionate about leverag
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebassil12&layout=compact&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight)
 
 🔗 Connect with Me

@@ -26,10 +26,12 @@ I'm committed to delivering high-quality, maintainable code and am always eager 
 <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassil12&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
+-->
 
 🔗 Connect with Me
 <p align="left">

@@ -1,6 +1,4 @@
-# Sebastian Silva
-
-👋 Hello! I'm Sebastian, a **full-stack developer** specializing in crafting robust and scalable web applications. Based in Ecuador, I'm passionate about leveraging the right tools to build efficient and user-friendly software.
+Hello! I'm Sebastian, a **full-stack developer** specializing in crafting robust and scalable web applications. Based in Ecuador, I'm passionate about leveraging the right tools to build efficient and user-friendly software.
 
 My expertise includes:
 
@@ -18,8 +16,6 @@ I'm committed to delivering high-quality, maintainable code and am always eager 
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
@@ -33,7 +29,7 @@ I'm committed to delivering high-quality, maintainable code and am always eager 
 </p>
 -->
 
-🔗 Connect with Me
+Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="assilva-3101-sch" height="30" width="40" />assilva-3101-sch</a>
 </p>

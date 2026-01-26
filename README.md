@@ -1,12 +1,39 @@
-Hello! I'm Sebastian, a **full-stack developer** specializing in crafting robust and scalable web applications. Based in Ecuador, I'm passionate about leveraging the right tools to build efficient and user-friendly software.
+👋 Hi, I’m Sebastian
+AI Engineer with a strong software engineering background
 
-My expertise includes:
+🇪🇨 Ecuadorian · 🌍 Open to remote work
 
-* **Front-end Development**: Building dynamic user interfaces with modern frameworks and libraries.
-* **Back-end Development**: Creating powerful and secure APIs with a focus on performance.
-* **ERP Solutions**: Customizing and extending business management software to meet specific client needs.
+I’m a Software Engineering with hands-on experience in enterprise systems and applied AI solutions. I focus on building robust, scalable software while integrating AI where it creates real impact.
 
-I'm committed to delivering high-quality, maintainable code and am always eager to take on new challenges.
+I’m particularly interested in machine learning, LLM-based systems, and AI-powered products, backed by solid backend engineering principles like clean architecture, performance, and scalability.
+
+My expertise:
+
+🤖 AI & Machine Learning
+
+* Trained machine learning models from scratch
+* Built AI solutions using LLMs, RAG, and prompt engineering
+* Experience integrating AI into real applications using APIs
+* Strong focus on problem-driven AI
+
+⚙️ Software Engineering
+
+* Clean architecture
+* Performance & scalability
+* API design & integrations
+* Enterprise experience
+
+🏢 ERP Development
+
+* Developed custom modules
+* Worked with real clients in a production environment
+
+🌐 Frontend
+
+* Experience with Next.js and Angular
+* UI/UX-oriented mindset
+* Skilled with Figma for interface design
+* Advanced animations using GSAP
 
 🛠️ Tech Stack
 <p align="left">
@@ -22,14 +49,8 @@ I'm committed to delivering high-quality, maintainable code and am always eager 
 <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 </p>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassil12&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
--->
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassil12&layout=compact&theme=tokyonight" alt="Top Languages"> </p>
 
-Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="assilva-3101-sch" height="30" width="40" />assilva-3101-sch</a>
-</p>
+🤝 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="LinkedIn" height="30" width="40" /> assilva-3101-sch </a> </p>

@@ -50,7 +50,19 @@ My expertise:
 </p>
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassil12&layout=compact&theme=tokyonight" alt="Top Languages"> </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sebassil12&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassil12&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
 
 🤝 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="LinkedIn" height="30" width="40" /> assilva-3101-sch </a> </p>

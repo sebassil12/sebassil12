@@ -1,7 +1,7 @@
 👋 Hi, I’m Sebastian
 AI Engineer with a strong software engineering background
 
-🇪🇨 Ecuadorian · 🌍 Open to remote work
+Ecuadorian · 🌍 Open to remote work
 
 I’m a Software Engineering with hands-on experience in enterprise systems and applied AI solutions. I focus on building robust, scalable software while integrating AI where it creates real impact.
 

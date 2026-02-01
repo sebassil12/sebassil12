@@ -7,33 +7,6 @@ I’m a Software Engineering with hands-on experience in enterprise systems and 
 
 I’m particularly interested in machine learning, LLM-based systems, and AI-powered products, backed by solid backend engineering principles like clean architecture, performance, and scalability.
 
-My expertise:
-
-🤖 AI & Machine Learning
-
-* Trained machine learning models from scratch
-* Built AI solutions using LLMs, RAG, and prompt engineering
-* Experience integrating AI into real applications using APIs
-* Strong focus on problem-driven AI
-
-⚙️ Software Engineering
-
-* Clean architecture
-* Performance & scalability
-* API design & integrations
-* Enterprise experience
-
-🏢 ERP Development
-
-* Developed custom modules
-* Worked with real clients in a production environment
-
-🌐 Frontend
-
-* Experience with Next.js and Angular
-* UI/UX-oriented mindset
-* Skilled with Figma for interface design
-* Advanced animations using GSAP
 
 🛠️ Tech Stack
 <p align="left">

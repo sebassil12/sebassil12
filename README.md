@@ -1,11 +1,9 @@
 👋 Hi, I’m Sebastian
-AI Engineer with a strong software engineering background
+Software Engineer focused on robust Backend architectures and applied AI solutions.
 
 Ecuadorian · 🌍 Open to remote work
 
-I’m a Software Engineering with hands-on experience in enterprise systems and applied AI solutions. I focus on building robust, scalable software while integrating AI where it creates real impact.
-
-I’m particularly interested in machine learning, LLM-based systems, and AI-powered products, backed by solid backend engineering principles like clean architecture, performance, and scalability.
+I specialize in building scalable enterprise systems and optimizing performance. I bridge the gap between solid engineering principles and intelligent automation, leveraging my background in data-driven products and academic research .
 
 
 🛠️ Tech Stack

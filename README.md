@@ -23,4 +23,4 @@ I specialize in building scalable enterprise systems and optimizing performance.
 
 
 🤝 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/assilva-3101-sch/" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="LinkedIn" height="30" width="40" /> assilva-3101-sch </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sebastian-silva-dev/" target="_blank"> <img align="center" src="https://www.svgrepo.com/show/452047/linkedin-1.svg" alt="LinkedIn" height="30" width="40" /> sebastian-silva-dev </a> </p>
